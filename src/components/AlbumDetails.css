@@ -1,0 +1,15 @@
+.back-arrow-btn {
+  cursor: pointer;
+  width: 40px;
+}
+
+.custom-margin-top {
+  margin-top: 14px;
+}
+
+.heading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
